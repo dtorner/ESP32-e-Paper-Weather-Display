@@ -29,6 +29,7 @@
 #include "epaper_fonts.h"
 #include "forecast_record.h"
 #include "lang.h"                     // Localisation (English)
+//#include "lang_es.h"                  // Localisation (Spanish)
 //#include "lang_fr.h"                  // Localisation (French)
 //#include "lang_gr.h"                  // Localisation (German)
 //#include "lang_it.h"                  // Localisation (Italian)
